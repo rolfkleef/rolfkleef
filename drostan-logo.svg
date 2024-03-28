@@ -1,0 +1,24 @@
+<svg id="drostan-logo" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <g id="logo" fill="#b90d55" stroke-width="0">
+    <circle cx="250" cy="250" id="outline" opacity="1" r="250"/>
+
+    <g id="logo-inner" fill="#ffffff">
+      <circle id="leaf" cx="250" cy="60" r="30"/>
+      <use href="#leaf" transform="rotate(-30 250 250)"/>
+      <use href="#leaf" transform="rotate(-60 250 250)"/>
+      <use href="#leaf" transform="rotate(-90 250 250)"/>
+      <use href="#leaf" transform="rotate(30 250 250)"/>
+      <use href="#leaf" transform="rotate(60 250 250)"/>
+      <use href="#leaf" transform="rotate(90 250 250)"/>
+
+      <polygon points="220,370 250,30 280,370 
+      406,406 280,390
+      334,453 250,390
+      165,453 220,390 94,406"/>
+      <polygon points="250,280 59,140 250,240 441,140 250,280"/>
+      <polygon points="250,165 130,65 250,145 370,65"/>
+      <polygon points="185,210 65,250 185,225"/>
+      <polygon points="315,210 435,250 315,225"/>
+    </g>
+  </g>
+</svg>
